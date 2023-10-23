@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_items">
+        <item>Kalkulator Pertanian</item>
+        <item>Kebutuhan Benih</item>
+        <item>Kesehatan Tanaman</item>
+        <item>Estimasi Produksi</item>
+        <item>Analisa Usaha</item>
+        <item>Estimasi Pendapatan</item>
+    </string-array>
+</resources>
